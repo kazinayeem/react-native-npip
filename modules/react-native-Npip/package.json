@@ -1,0 +1,19 @@
+{
+  "name": "react-native-npip",
+  "version": "0.0.0",
+  "description": "A lightweight React Native module for enabling Picture-in-Picture (PiP) mode on Android devices. Simplify PiP integration in your React Native apps with this easy-to-use library.",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNNpipSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "type": "turbo-module",
+    "languages": "kotlin-objc",
+    "version": "0.45.5"
+  }
+}
